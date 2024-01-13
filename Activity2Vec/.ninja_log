@@ -1,0 +1,5 @@
+# ninja log v5
+7	1776	1703913508780894400	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/build/temp.linux-x86_64-cpython-37/tools/inference_tools/detector/nms/src/soft_nms_cpu.o	fe86860441907d21
+9	9206	1703913527190712700	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/build/temp.linux-x86_64-cpython-37/tools/inference_tools/detector/nms/src/nms_cpu.o	339bd1b4a80df150
+13	5490	1703913540055456600	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/build/temp.linux-x86_64-cpython-37/tools/inference_tools/detector/nms/src/nms_kernel.o	d7423aba28b310f7
+11	9276	1703913543839851100	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/build/temp.linux-x86_64-cpython-37/tools/inference_tools/detector/nms/src/nms_cuda.o	8cd8d8f47d16da30

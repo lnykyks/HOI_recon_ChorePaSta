@@ -1,0 +1,11 @@
+# ninja log v5
+9	9407	1703912720869351100	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/utils/roi_align/src/roi_align_kernel.o	9bef34004c055f33
+17	5356	1703913191815252200	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/utils/roi_align/src/roi_align_kernel.o	9bef34004c055f33
+15	9516	1703913195973803800	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/utils/roi_align/src/roi_align_cuda.o	cd1c30061f71537b
+16	5580	1703913210774262100	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/models/layers/dcn/src/deform_conv_cuda_kernel.o	9a2dbb945b2bffb6
+16	5331	1703913297972909100	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/utils/roi_align/src/roi_align_kernel.o	9bef34004c055f33
+14	9302	1703913301943174700	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/utils/roi_align/src/roi_align_cuda.o	cd1c30061f71537b
+22	5525	1703913312775530000	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/models/layers/dcn/src/deform_conv_cuda_kernel.o	9a2dbb945b2bffb6
+19	10778	1703913318025273200	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/models/layers/dcn/src/deform_conv_cuda.o	ebf082f7a8a0a18d
+20	5408	1703913331138943100	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/models/layers/dcn/src/deform_pool_cuda_kernel.o	9a1d62cc268c6db0
+16	9601	1703913335327569200	/mnt/e/lnyky2/projects/HOI_detect/Activity2Vec/AlphaPose/build/temp.linux-x86_64-cpython-37/alphapose/models/layers/dcn/src/deform_pool_cuda.o	c6f049f5e1626f05

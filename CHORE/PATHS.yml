@@ -1,0 +1,12 @@
+# Set all the paths here.
+# Author: Xianghui Xie
+# Cite: CHORE: Contact, Human and Object REconstruction from a single RGB image, ECCV'2022
+
+CODE: "/mnt/e/lnyky2/projects/HOI_recon/CHORE-edited/" # path to your project main folder
+BEHAVE_PATH: "/mnt/e/lnyky2/projects/HOI_recon/CHORE-edited/sequences/BEHAVE/objects" # root path where BEHAVE sequences are stored # object templates from BEHAVE dataset
+PROCESSED_PATH: "/mnt/e/lnyky2/outputs/chore/processed" # root path where processed data are saved
+RECON_PATH: "/mnt/e/lnyky2/outputs/chore/recon" # root path where reconstruction results will be saved
+
+# paths to SMPL libs
+SMPL_ASSETS_ROOT: "/mnt/e/lnyky2/projects/HOI_recon/CHORE-edited/assets"
+SMPL_MODEL_ROOT: "/mnt/e/lnyky2/projects/HOI_recon/CHORE-edited/sequences/SMPL-H/mano_v1_2/models"
